@@ -1,5 +1,7 @@
-#prompt user for input and change uppercase to lower case; punctuation and whitespace unchanged
-indoor_voice = input().lower()
+# prompt user for input and change uppercase to lower case; punctuation and whitespace unchanged
 
-#output input in lowercase
-print(indoor_voice)
+indoorv = input().lower()
+
+# output input in lowercase
+
+print(indoorv)
