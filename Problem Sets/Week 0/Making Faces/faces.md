@@ -8,6 +8,14 @@ In a file called `faces.py`, implement a function called `convert` that accepts 
 
 Then, in that same file, implement a function called `main` that prompts the user for input, calls `convert` on that input, and prints the result. You’re welcome, but not required, to prompt the user explicitly, as by passing a `str` of your own as an argument to `input`. Be sure to call main at the bottom of your file.
 
+## Hints
+
+- Recall that input returns a str, per [docs.python.org/3/library/functions.html#input](docs.python.org/3/library/functions.html#input).
+- Recall that a str comes with quite a few methods, per [docs.python.org/3/library/stdtypes.html#string-methods](docs.python.org/3/library/stdtypes.html#string-methods).
+- An emoji is actually just a character, so you can quote it like any str, a la "😐". And you can copy and paste the emoji from this page into your own code as needed.
+
+---
+
 This task was copied from CS50’s Introduction to Programming with Python
 [(see the original version)](https://cs50.harvard.edu/python/2022/psets/0/faces/).
 
