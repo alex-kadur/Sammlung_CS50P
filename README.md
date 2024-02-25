@@ -1,4 +1,4 @@
-# AKA-CS50-s-Introduction-to-Programming-with-Python
+# Python
 
 ## Content
 This repository holds all my scripts written for CS50-s-Introduction-to-Programming-with-Python. It was mainly created for the purpose of backing up my files and showcasing my work.
