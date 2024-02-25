@@ -8,3 +8,6 @@ In a file called `faces.py`, implement a function called `convert` that accepts 
 
 Then, in that same file, implement a function called `main` that prompts the user for input, calls `convert` on that input, and prints the result. You’re welcome, but not required, to prompt the user explicitly, as by passing a `str` of your own as an argument to `input`. Be sure to call main at the bottom of your file.
 
+This task was copied from CS50’s Introduction to Programming with Python
+[(see the original version)](https://cs50.harvard.edu/python/2022/psets/0/faces/).
+
