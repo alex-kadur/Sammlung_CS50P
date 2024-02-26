@@ -8,3 +8,5 @@ In a file called `coke.py`, implement a program that prompts the user to insert 
 
 ---
 
+This task was copied from CS50’s Introduction to Programming with Python
+[(see the original version)](https://cs50.harvard.edu/python/2022/psets/2/coke/).
