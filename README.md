@@ -20,7 +20,7 @@ The course is licensed under a Creative Commons [Attribution-NonCommercial-Share
 ---
 
 ## Inhalt
-Dieses Repository enthält alle Skripte, die ich für *CS50-s-Introduction-to-Programming-with-Python* geschrieben habe. Es wurde hauptsächlich zu dem Zweck erstellt, meine Arbeit für andere sichtbar zu machen.
+Dieses Repository enthält alle Skripte, die ich für *CS50-s-Introduction-to-Programming-with-Python* geschrieben habe. Es wurde hauptsächlich zu dem Zweck erstellt, meine Arbeit für andere sichtbar zu machen. Da der Kurs in englischer Sprache gehalten wird und keine offizielle Übersetzung ins Deutsche existiert, werde ich im Folgenden ebenfalls auf die Übersetzung der Aufgabenstellungen verzichten und diese in Originalsprache abbilden. 
 
 ## Über Akademische Aufrichtigkeit
 Der hier gezeigte Code soll unter keinen Umständen gegen die Kursrichtlinien zur akademischen Aufrichtigkeit verstoßen und soll auch andere nicht dazu ermutigen.
