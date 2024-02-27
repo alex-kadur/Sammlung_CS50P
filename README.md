@@ -3,7 +3,7 @@
 ---
 
 ## Content
-This repository holds all my scripts written for *CS50-s-Introduction-to-Programming-with-Python*. It was mainly created for the purpose of showcasing my work and keeping it organized and accessible.
+This repository holds 41 scripts of varying sizes written for *CS50-s-Introduction-to-Programming-with-Python*. It was mainly created for the purpose of showcasing my work and keeping it organized and accessible.
 
 ## About Academic Honesty
 Under no circumstances the code showcased here was created to violate the courses policy on academic honesty and is as well not meant to encourage others to do so.   
@@ -20,7 +20,7 @@ The course is licensed under a Creative Commons [Attribution-NonCommercial-Share
 ---
 
 ## Inhalt
-Dieses Repository enthält alle Skripte, die ich für *CS50-s-Introduction-to-Programming-with-Python* geschrieben habe. Es wurde hauptsächlich zu dem Zweck erstellt, meine Arbeit für mich organisiert und zugänglich zu halten und für andere sichtbar zu machen. Da der Kurs in englischer Sprache gehalten wird und keine offizielle Übersetzung ins Deutsche existiert, werde ich im Folgenden ebenfalls auf die Übersetzung der Aufgabenstellungen verzichten und diese in Originalsprache abbilden. 
+Dieses Repository enthält 41 Programme unterschiedlichen Umfangs, die ich für *CS50-s-Introduction-to-Programming-with-Python* geschrieben habe. Es wurde hauptsächlich zu dem Zweck erstellt, meine Arbeit für mich organisiert und zugänglich zu halten, soll diese aber auch für andere sichtbar machen. Da der Kurs in englischer Sprache gehalten wird und keine offizielle Übersetzung ins Deutsche existiert, werde ich im Folgenden ebenfalls auf die Übersetzung der Aufgabenstellungen verzichten und diese in Originalsprache abbilden. 
 
 ## Über Akademische Aufrichtigkeit
 Der hier gezeigte Code soll unter keinen Umständen gegen die Kursrichtlinien zur akademischen Aufrichtigkeit verstoßen und soll auch andere nicht dazu ermutigen.
