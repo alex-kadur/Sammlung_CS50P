@@ -27,3 +27,6 @@ No need to submit any PDFs with your code. But, if you would like, you’re welc
 - You can open `shirtificate.pdf`, once outputted, by clicking it in VS Code’s file explorer.
 
 ---
+
+This task was copied from CS50’s Introduction to Programming with Python
+[(see the original version)](https://cs50.harvard.edu/python/2022/psets/8/shirtificate/).
