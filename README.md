@@ -27,7 +27,7 @@ Der Kurs ist unter Creative Commons [Attribution-NonCommercial-ShareAlike 4.0 In
 ---
 
 ## Content
-This repository holds `41 scripts of varying sizes` written for *CS50-s-Introduction-to-Programming-with-Python*. It was mainly created for the purpose of showcasing my work and keeping it organized and accessible.
+This repository holds `41 scripts of varying extend` written for *CS50-s-Introduction-to-Programming-with-Python*. It was mainly created for the purpose of showcasing my work and keeping it organized and accessible.
 
 ## Examples
 
